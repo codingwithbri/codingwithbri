@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codingwithbri Briana Raé
+- 👋🏾 Hi, I’m @codingwithbri 
 - 👀 I’m interested in Full Stack Dev
 - 🌱 I’m currently learning The Odin Project - HTML, CSS, & JS
 - 💞️ I’m looking to collaborate on startups
