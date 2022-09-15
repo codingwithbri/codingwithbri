@@ -1,7 +1,7 @@
 - 👋🏾 Hi, I’m @codingwithbri 
 - 👀 I’m interested in Front End Dev
-- 🌱 I’m currently learning The Odin Project - HTML, CSS, & JS
-- 💞️ I’m looking to collaborate on startups
+- 🌱 I’m currently in The FrontEnd Masters Bootcamp
+- 💞️ I’m looking to collaborate on startups, on going projects, new projects, and more! 
 - 📫 How to reach me - 
 
 <!---
