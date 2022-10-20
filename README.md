@@ -1,6 +1,6 @@
 - 👋🏾 Hi, I’m @codingwithbri 
 - 👀 I’m interested in Front End Dev
-- 🌱 I’m currently in The FrontEnd Masters Bootcamp
+- 🌱 I’m currently in The Creating Coding Careers Apprenticeship 
 - 💞️ I’m looking to collaborate on startups, on going projects, new projects, and more! 
 - 📫 How to reach me - 
 
