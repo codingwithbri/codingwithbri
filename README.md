@@ -1,7 +1,7 @@
 - 👋🏾 Hi, I’m @codingwithbri 
-- 👀 I’m interested in Front End Dev
-- 🌱 I’m currently in The Creating Coding Careers Apprenticeship 
-- 💞️ I’m looking to collaborate on startups, on going projects, new projects, and more! 
+- 👀 I’m interested in CyberSecurity
+- 🌱 I’m currently a ISC² candidate 
+- 💞️ I’m looking to collaborate on all!  
 - 📫 How to reach me - 
 
 <!---
